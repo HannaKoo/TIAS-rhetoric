@@ -2,7 +2,7 @@
 
 This repository/folder contains the Python code used to search the Apostolic Penitentiary corpora for occurrences and variants of the expression *vim vi repellendo* in material from Norway, Sweden, and England and Wales.
 
-The script searches the XML text samples, records candidate occurrences with their source and document information, and produces reports for inspection and further analysis. Search results are candidates for scholarly verification; the script does not replace checking the original editions or XML passages.
+The script searches the XML text samples, records candidate occurrences with their source and document information, and produces reports for inspection and further analysis. Search results are candidates; the script should not replace the manual checking the original editions or XML passages.
 
 ## Important note about citing the corpus
 
@@ -50,10 +50,9 @@ The participle pattern is deliberately broad, allowing some spelling variation (
 
 These labels are automated classifications based on the script's current pattern and rules. They should be checked against the text in context before being used as linguistic or legal conclusions.
 
-## Corpus folder structure and configuration
+## The files
 
-The script is configured to use the following base folder by default:
-
+- The files will be available in an another GitHub soon, a link will be added later
 
 ## Running the analysis
 
