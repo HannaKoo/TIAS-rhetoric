@@ -31,9 +31,9 @@ The search focuses on the sequence *vim* + *vi* followed by a form related to *r
 
 The project includes these source groups:
 
-- **Norway** — `Norway_data.xml`
-- **Sweden** — `auctoritate_teksti.xml`
-- **England and Wales** — three XML files, corresponding to volumes I–III of the edited supplications
+- **Norway** — one XML file
+- **Sweden** — one XML file
+- **England and Wales** — three XML files
 
 ## Search approach
 
