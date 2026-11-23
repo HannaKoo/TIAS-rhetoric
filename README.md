@@ -1,4 +1,4 @@
-# "Vim vi* as a rhetorical device — Corpus Search and Analysis
+# *Vim vi repellendo* as a rhetorical device — Corpus Search and Analysis
 
 This repository/folder contains the Python code used to search the Apostolic Penitentiary corpora for occurrences and variants of the expression *vim vi repellendo* in material from Norway, Sweden, and England and Wales.
 
