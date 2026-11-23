@@ -1,0 +1,98 @@
+vim_vi_rhetoric — DESCRIPTIVE STATISTICS
+============================================================
+
+COUNTS BY CATEGORY AND COUNTRY
+(Counts are finding occurrences, not unique documents.)
+
+Category          Norway                Sweden                England and Wales     Total
+-----------------------------------------------------------------------------------------
+full_exact        10                    32                    14                    56
+full_variant      0                     12                    7                     19
+extended          0                     1                     4                     5
+partial           1                     2                     4                     7
+
+DOCUMENT-LEVEL COUNTS
+
+[full_exact]
+England and Wales | England_Wales_1_data.xml | Document 1076: 2
+England and Wales | England_Wales_1_data.xml | Document 655: 1
+England and Wales | England_Wales_1_data.xml | Document 665: 1
+England and Wales | England_Wales_1_data.xml | Document 715: 1
+England and Wales | England_Wales_2_data.xml | Document 2210: 1
+England and Wales | England_Wales_2_data.xml | Document 2212: 1
+England and Wales | England_Wales_2_data.xml | Document 2213: 2
+England and Wales | England_Wales_2_data.xml | Document 2217: 1
+England and Wales | England_Wales_2_data.xml | Document 3020: 1
+England and Wales | England_Wales_2_data.xml | Document 3112: 1
+England and Wales | England_Wales_3_data.xml | Document 3968: 1
+England and Wales | England_Wales_3_data.xml | Document 3969: 1
+Norway | Norway_data.xml | Document 65: 2
+Norway | Norway_data.xml | Document 74: 2
+Norway | Norway_data.xml | Document 75: 2
+Norway | Norway_data.xml | Document 76: 2
+Norway | Norway_data.xml | Document 78: 2
+Sweden | auctoritate_teksti.xml | Document 114: 1
+Sweden | auctoritate_teksti.xml | Document 175: 1
+Sweden | auctoritate_teksti.xml | Document 232: 1
+Sweden | auctoritate_teksti.xml | Document 234: 2
+Sweden | auctoritate_teksti.xml | Document 236: 2
+Sweden | auctoritate_teksti.xml | Document 251: 1
+Sweden | auctoritate_teksti.xml | Document 252: 2
+Sweden | auctoritate_teksti.xml | Document 260: 3
+Sweden | auctoritate_teksti.xml | Document 280: 2
+Sweden | auctoritate_teksti.xml | Document 284: 1
+Sweden | auctoritate_teksti.xml | Document 289: 2
+Sweden | auctoritate_teksti.xml | Document 293: 1
+Sweden | auctoritate_teksti.xml | Document 318: 1
+Sweden | auctoritate_teksti.xml | Document 344: 1
+Sweden | auctoritate_teksti.xml | Document 360: 1
+Sweden | auctoritate_teksti.xml | Document 372: 1
+Sweden | auctoritate_teksti.xml | Document 383: 1
+Sweden | auctoritate_teksti.xml | Document 4: 1
+Sweden | auctoritate_teksti.xml | Document 412: 1
+Sweden | auctoritate_teksti.xml | Document 418: 1
+Sweden | auctoritate_teksti.xml | Document 428: 1
+Sweden | auctoritate_teksti.xml | Document 445: 1
+Sweden | auctoritate_teksti.xml | Document 450: 1
+Sweden | auctoritate_teksti.xml | Document 451: 1
+Sweden | auctoritate_teksti.xml | Document 79: 1
+
+[full_variant]
+England and Wales | England_Wales_2_data.xml | Document 1415: 1
+England and Wales | England_Wales_2_data.xml | Document 1418: 1
+England and Wales | England_Wales_2_data.xml | Document 1421: 2
+England and Wales | England_Wales_2_data.xml | Document 1427: 2
+England and Wales | England_Wales_2_data.xml | Document 2210: 1
+Sweden | auctoritate_teksti.xml | Document 114: 1
+Sweden | auctoritate_teksti.xml | Document 119: 2
+Sweden | auctoritate_teksti.xml | Document 143: 1
+Sweden | auctoritate_teksti.xml | Document 160: 2
+Sweden | auctoritate_teksti.xml | Document 164: 1
+Sweden | auctoritate_teksti.xml | Document 175: 1
+Sweden | auctoritate_teksti.xml | Document 195: 2
+Sweden | auctoritate_teksti.xml | Document 274: 1
+Sweden | auctoritate_teksti.xml | Document 80: 1
+
+[extended]
+England and Wales | England_Wales_2_data.xml | Document 2221: 1
+England and Wales | England_Wales_2_data.xml | Document 2222: 2
+England and Wales | England_Wales_3_data.xml | Document 3682: 1
+Sweden | auctoritate_teksti.xml | Document 143: 1
+
+[partial]
+England and Wales | England_Wales_1_data.xml | Document 567: 1
+England and Wales | England_Wales_1_data.xml | Document 59: 2
+England and Wales | England_Wales_1_data.xml | Document 87: 1
+Norway | Norway_data.xml | Document 84: 1
+Sweden | auctoritate_teksti.xml | Document 284: 1
+Sweden | auctoritate_teksti.xml | Document 292: 1
+
+PARTIAL USES — DOCUMENT LIST
+
+Norway | Norway_data.xml | Document 84 | vim vi
+Sweden | auctoritate_teksti.xml | Document 284 | vim vi
+Sweden | auctoritate_teksti.xml | Document 292 | vim vi
+England and Wales | England_Wales_1_data.xml | Document 59 | vim vi
+England and Wales | England_Wales_1_data.xml | Document 59 | vim vi
+England and Wales | England_Wales_1_data.xml | Document 87 | vim vi
+England and Wales | England_Wales_1_data.xml | Document 567 | vim vi
